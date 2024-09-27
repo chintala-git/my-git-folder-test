@@ -3,3 +3,4 @@ sudo yum update
 sudo yum install nginx -y
 sudo systemctl restart nginx
 sudo systemctl status nginx
+sudo systemctl stop nginx
